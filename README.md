@@ -1,4 +1,26 @@
-### Hi there 👋
+## <p align="center">mov rsi, 0x7fffffffffffffff</p>
+```C
+                              struct movrsi { char *name; char *interests[5]; char *languages[10]; };
+                              
+                              static const struct movrsi about_me =
+                              {
+                                  .name  = "movrsi",
+                                  .interests = {
+                                     "Application development",
+                                     "Code optimization",
+                                     "Cracking",
+                                     "Debugging",
+                                     "Reverse Engineering"
+                                  },
+                                  .languages = {
+                                `     "C",
+                                      "C++",
+                                      "Javascript",
+                                      "Python",
+                                      "QT"       
+                                  }
+                              };
+```
 
 <!--
 **movrsi/movrsi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
