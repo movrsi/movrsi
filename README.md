@@ -14,7 +14,7 @@
                                      "Code optimization",
                                      "Cracking",
                                      "Debugging",
-                                     "Reverse Engineering"
+                                     "Reverse engineering"
                                   },
                                   .languages = {
                                 `     "C",
