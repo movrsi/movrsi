@@ -1,4 +1,4 @@
-<img align="center" src="/metrics.svg" alt="Metrics" width="600">
+<p align="center"><img align="center" src="/metrics.svg" alt="Metrics" width="600"></p>
 <!--
 ##
 
