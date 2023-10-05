@@ -19,7 +19,7 @@ jobs:
           filename: metrics.svg
           output_action: commit
           output_condition: data-changed
-          plugin_achievements: yes
+          plugin_achievements: no
           plugin_followup: yes
           plugin_habits: yes
           plugin_habits_charts: no
